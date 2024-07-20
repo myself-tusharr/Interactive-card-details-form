@@ -7,7 +7,7 @@ This this solution to frontend challenge by frontendmentor.com.
 
 
 ## About Project
-- See live preview <a href="">here</a>
+- See live preview <a href="https://myself-tusharr.github.io/interactive-card-details-form">here</a>
 - Date Created : 1 July 2024
 - Created By : Tushar Ramgirkar
 
