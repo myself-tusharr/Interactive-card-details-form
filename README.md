@@ -1,7 +1,10 @@
 # Interactive Card Details Form
 This this solution to frontend challenge by frontendmentor.com.
 
-## Tools & Tech
+![Static Badge](https://img.shields.io/badge/html-blue?style=plastic&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/css-red?style=plastic&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/javascript-black?style=plastic&logo=javascript&logoColor=white)
+
 
 ## About Project
 - See live preview <a href="">here</a>
